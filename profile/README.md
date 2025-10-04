@@ -3,8 +3,8 @@
 [![Website](https://img.shields.io/badge/website-yumenokirin.com-blue)](https://yumenokirin.com)
 [![Twitch](https://img.shields.io/badge/Twitch-Streaming-purple)](https://twitch.tv/yumenokirin)
 [![Email](https://img.shields.io/badge/email-contact@yumenokirin.com-lightgrey)](mailto:contact@yumenokirin.com)
-[![GitHub Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)](https://github.com/YOUR_USERNAME)
-[![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=social)](https://github.com/YOUR_USERNAME)
+[![GitHub Followers](https://img.shields.io/github/followers/Yume-No-Kirin?style=social)](https://github.com/Yume-No-Kirin)
+[![GitHub Stars](https://img.shields.io/github/stars/Yume-No-Kirin?style=social)](https://github.com/Yume-No-Kirin)
 [![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)]()
 
 ---
@@ -18,45 +18,70 @@
 
 We create **immersive experiences** across multiple platforms and engage directly with our audience.
 
+**Mission Highlights:**  
+- Publish immersive fantasy novels  
+- Develop transmedia experiences across books, videos, and interactive platforms  
+- Leverage AI tools for marketing, content creation, and audience engagement  
+- Build a vibrant community around our stories and projects
+
 ---
 
-## 📚 Portfolio – Hover for Info
+## 📚 Latest Releases
 
-<div align="center">
+<table border="0">
+  <tr>
+    <td valign="top">
+      <a href="https://yumenokirin.com">
+        <img src="https://yumenokirin.com/logo.png" alt="Midnight Weavers" width="50" height="75"/>
+      </a>
+    </td>
+    <td valign="top" style="padding-left: 15px;">
+      <b><a href="https://yumenokirin.com">Midnight Weavers</a></b> by Cleo Gryn<br>
+      A gripping fantasy novel full of magic, mystery, and adventure.<br>
+      <i>First release – available now!</i>
+    </td>
+  </tr>
+</table>
 
-<!-- Book -->
-<a href="https://yumenokirin.com" title="Midnight Weavers – Book – Released">
-  <img src="https://yumenokirin.com/logo.png/150x225" alt="Midnight Weavers" style="margin:10px"/>
-</a>
+---
 
-<!-- AI Script -->
-<a href="https://github.com/YOUR_USERNAME/scripts-IA" title="AI Tools & Userscripts – Script Collection – In Progress">
-  <img src="https://yumenokirin.com/logo.png/120x120" alt="AI Scripts" style="margin:10px"/>
-</a>
+## 🛠 Projects
 
-<!-- Twitch -->
-<a href="https://twitch.tv/yumenokirin" title="Twitch Channel – Streaming – Ongoing">
-  <img src="https://yumenokirin.com/logo.png/120x120" alt="Twitch Channel" style="margin:10px"/>
-</a>
-
-<!-- Upcoming Book -->
-<a href="#" title="Upcoming Book – Book – Planned">
-  <img src="https://yumenokirin.com/logo.png/120x180" alt="Upcoming Book" style="margin:10px"/>
-</a>
-
-<!-- Upcoming Script -->
-<a href="#" title="Upcoming Script – Tool – Planned">
-  <img src="https://yumenokirin.com/logo.png/120x120" alt="Upcoming Script" style="margin:10px"/>
-</a>
-
-</div>
+<table border="0">
+  <tr>
+    <td align="center">
+      <a href="https://yumenokirin.com">
+        <img src="https://yumenokirin.com/logo.png" alt="Midnight Weavers" width="150" height="225"/><br>
+        Books
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Yume-No-Kirin/scripts-IA">
+        <img src="https://yumenokirin.com/logo.png" alt="AI Scripts" width="150" height="225"/><br>
+        AI
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://twitch.tv/yumenokirin">
+        <img src="https://yumenokirin.com/logo.png" alt="Twitch Channel" width="150" height="225"/><br>
+        Streaming
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://yumenokirin.com/logo.png" alt="Upcoming Book" width="150" height="225"/><br>
+        Upcoming Projects
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## ⚙️ How to Engage
 
 - **Read Our Books**: [Visit Website](https://yumenokirin.com)  
-- **Use Our AI Scripts**: [GitHub Repository](https://github.com/Yume-No-Kirin/scripts-IA)  
+- **Use Our AI Tools**: [GitHub Repository](https://github.com/Yume-No-Kirin/scripts-IA)  
 - **Join Twitch Live Sessions**: [twitch.tv/yumenokirin](https://twitch.tv/yumenokirin)
 
 ---
