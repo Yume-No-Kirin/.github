@@ -26,27 +26,27 @@ We create **immersive experiences** across multiple platforms and engage directl
 
 <!-- Book -->
 <a href="https://yumenokirin.com" title="Midnight Weavers – Book – Released">
-  <img src="https://via.placeholder.com/150x225" alt="Midnight Weavers" style="margin:10px"/>
+  <img src="https://yumenokirin.com/logo.png/150x225" alt="Midnight Weavers" style="margin:10px"/>
 </a>
 
 <!-- AI Script -->
 <a href="https://github.com/YOUR_USERNAME/scripts-IA" title="AI Tools & Userscripts – Script Collection – In Progress">
-  <img src="https://via.placeholder.com/120x120" alt="AI Scripts" style="margin:10px"/>
+  <img src="https://yumenokirin.com/logo.png/120x120" alt="AI Scripts" style="margin:10px"/>
 </a>
 
 <!-- Twitch -->
 <a href="https://twitch.tv/yumenokirin" title="Twitch Channel – Streaming – Ongoing">
-  <img src="https://via.placeholder.com/120x120" alt="Twitch Channel" style="margin:10px"/>
+  <img src="https://yumenokirin.com/logo.png/120x120" alt="Twitch Channel" style="margin:10px"/>
 </a>
 
 <!-- Upcoming Book -->
 <a href="#" title="Upcoming Book – Book – Planned">
-  <img src="https://via.placeholder.com/120x180" alt="Upcoming Book" style="margin:10px"/>
+  <img src="https://yumenokirin.com/logo.png/120x180" alt="Upcoming Book" style="margin:10px"/>
 </a>
 
 <!-- Upcoming Script -->
 <a href="#" title="Upcoming Script – Tool – Planned">
-  <img src="https://via.placeholder.com/120x120" alt="Upcoming Script" style="margin:10px"/>
+  <img src="https://yumenokirin.com/logo.png/120x120" alt="Upcoming Script" style="margin:10px"/>
 </a>
 
 </div>
@@ -56,7 +56,7 @@ We create **immersive experiences** across multiple platforms and engage directl
 ## ⚙️ How to Engage
 
 - **Read Our Books**: [Visit Website](https://yumenokirin.com)  
-- **Use Our AI Scripts**: [GitHub Repository](https://github.com/YOUR_USERNAME/scripts-IA)  
+- **Use Our AI Scripts**: [GitHub Repository](https://github.com/Yume-No-Kirin/scripts-IA)  
 - **Join Twitch Live Sessions**: [twitch.tv/yumenokirin](https://twitch.tv/yumenokirin)
 
 ---
