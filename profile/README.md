@@ -16,39 +16,36 @@
 - 🤖 AI-driven marketing & automation scripts  
 - 🎥 Streaming & interactive storytelling  
 
-We create immersive experiences across multiple platforms and engage directly with our audience.
+We create **immersive experiences** across multiple platforms and engage directly with our audience.
 
 ---
 
-## 📚 Portfolio – Latest Releases & Projects
+## 📚 Portfolio – Hover for Info
 
 <div align="center">
 
-<!-- Book: Midnight Weavers -->
+<!-- Book -->
 <a href="https://yumenokirin.com" title="Midnight Weavers – Book – Released">
   <img src="https://via.placeholder.com/150x225" alt="Midnight Weavers" style="margin:10px"/>
 </a>
-[![Release](https://img.shields.io/github/v/release/YOUR_USERNAME/YOUR_BOOK_REPO)](https://github.com/YOUR_USERNAME/YOUR_BOOK_REPO)
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_BOOK_REPO)](https://github.com/YOUR_USERNAME/YOUR_BOOK_REPO)
 
-<!-- AI Scripts -->
+<!-- AI Script -->
 <a href="https://github.com/YOUR_USERNAME/scripts-IA" title="AI Tools & Userscripts – Script Collection – In Progress">
   <img src="https://via.placeholder.com/120x120" alt="AI Scripts" style="margin:10px"/>
 </a>
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/scripts-IA)](https://github.com/YOUR_USERNAME/scripts-IA)
 
-<!-- Twitch Channel -->
+<!-- Twitch -->
 <a href="https://twitch.tv/yumenokirin" title="Twitch Channel – Streaming – Ongoing">
   <img src="https://via.placeholder.com/120x120" alt="Twitch Channel" style="margin:10px"/>
 </a>
 
 <!-- Upcoming Book -->
-<a href="#" title="Upcoming Book – Planned">
+<a href="#" title="Upcoming Book – Book – Planned">
   <img src="https://via.placeholder.com/120x180" alt="Upcoming Book" style="margin:10px"/>
 </a>
 
 <!-- Upcoming Script -->
-<a href="#" title="Upcoming Script – Planned">
+<a href="#" title="Upcoming Script – Tool – Planned">
   <img src="https://via.placeholder.com/120x120" alt="Upcoming Script" style="margin:10px"/>
 </a>
 
